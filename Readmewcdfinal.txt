@@ -1,9 +1,3 @@
-Notes:
-For the most part this project was done by following the instructions. There wasn't as much code that isn't directly from the guidelines I can give.
-
-Here is just some bash commands I saved due to large uses, I have attached the pyspark file, s3 bucket permisions template, nifi template, superset dashbaord and powerpoint presentation
-
-
 
 Kafka bash commands:
 
